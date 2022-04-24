@@ -12,6 +12,6 @@ For the generation of tweets, we compared two methods:
 
 This repository contains several files : 
 - `colab` : a notebook allowing to test our results and to see the whole set of our tests. You can also find it [here](https://colab.research.google.com/drive/1gSDT18h14hxE9IFE_kEPZ6-Zxzg6JP6A?usp=sharing).
-- `rapport` : a report in pdf format.
+- `report` : a report in pdf format.
 - `get_tweets` : the code that allowed us to retrieve the tweets.
 
