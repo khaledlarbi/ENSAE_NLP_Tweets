@@ -1,4 +1,4 @@
-#Tweet like a future president
+# Tweet like a future president
 
 For this project, we tried to simulate tweets like some of the candidates for the 2022 French presidential election. We selected 5 candidates: Le Pen, Macron, Mélenchon, Pécresse, Zemmour (candidates with the highest results in the polls in March 2022).
 
